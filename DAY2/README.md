@@ -40,5 +40,4 @@ People may forget contact details after a meeting, but a business card provides 
 ### Disseminate key information: 🕵️
 In addition to contact details, you can include important information on your business card, such as your skills, areas of expertise or services offered, which can help people better remember what you do.
 ## Result: 
-![image](https://github.com/xVrzBx/100Days100Proyects/assets/91161604/b10e74c3-d5cf-49ac-b6fa-86502c68d2b3)
-![image](https://github.com/xVrzBx/100Days100Proyects/assets/91161604/450417e2-c47b-4bf7-97e3-88d465abcbbd)
+
