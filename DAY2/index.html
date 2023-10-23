@@ -1,11 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Business Card</title>
-</head>
-<body>
-    
-</body>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Business Card</title>
+        <link rel="stylesheet" href="styles.css" />
+        <link rel="icon" href="./img/binary-code.png" />
+    </head>
+    <body>
+        <section class="card">
+            <div class="picture">
+                <!-- TODO: ADD MY PIC -->
+                <img src="img/me.jpg" alt="Zabdiel Reyes" />
+            </div>
+            <div class="card-info">
+                <h1>Zabdiel Reyes</h1>
+                <h2>Backend Developer</h2>
+
+                <div class="skills">
+                    <ul>
+                        <li>Java</li>
+                        <li>JavaScript</li>
+                        <li>Node.js</li>
+                        <li>MySQL</li>
+                    </ul>
+                </div>
+
+                <!-- ADD CV -->
+                <a id="resume" href="./assets/resume.pdf">Download Resume</a>
+            </div>
+            <div class="social-media">
+                <!-- TODO: ADD SOCIAL MEDIA LINKS -->
+                <a href="http://github.com/Folkrom" target="_blank"
+                    ><button>
+                        <ion-icon name="logo-github"></ion-icon> Github
+                    </button>
+                </a>
+                <a
+                    href="https://www.linkedin.com/in/zabdiel-ignacio-reyes-orozco-3605721b0/"
+                    target="_blank"
+                    ><button>
+                        <ion-icon name="logo-linkedin"></ion-icon> LinkedIn
+                    </button></a
+                >
+                <a href="http://instagram.com/zabdielito.mix" target="_blank"
+                    ><button>
+                        <ion-icon name="logo-instagram"></ion-icon> Instagram
+                    </button></a
+                >
+            </div>
+        </section>
+
+        <script
+            type="module"
+            src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+        ></script>
+        <script
+            nomodule
+            src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+        ></script>
+    </body>
 </html>
